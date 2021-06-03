@@ -1,5 +1,5 @@
 
-Demo project for couting the words
+Demo project for counting  the words
 
 Java version 8
 Maven version 3.8.1
@@ -10,3 +10,5 @@ Sample Request
 
 Sample Request
 > curl http://localhost:9000/counter-api/top/20 -H "Authorization: Basic b3B0dXM6Y2FuZGlkYXRlcw==" -H ”Accept: text/csv”
+
+```
